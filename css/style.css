@@ -21,10 +21,10 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  text-align: center;
 }
 li {
-  display: inline;
-  float: left;
+  display: inline-block;
 }
 li a {
   display: block;
